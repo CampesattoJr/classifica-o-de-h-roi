@@ -1,8 +1,8 @@
 # Desafio classificação de herói
-Desafio da DIO para criar uma classificação de herói usando classes e objetos
+Desafio da DIO para criar uma classificação de herói usando classes e objetos.
 
 ## Tecnologia utilizada
-- JavasCript
+- JavaScript
 
 ## Objetivo
 Praticar meu estudo de lógica de programção.
